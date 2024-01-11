@@ -1,0 +1,3 @@
+[submodule "submodules/cppcms"]
+	path = submodules/cppcms
+	url = https://github.com/artyom-beilis/cppcms.git
